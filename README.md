@@ -10,11 +10,17 @@ after I have failed to disprove it, not when it first looks plausible.
 
 ### Experience
 
-Most of my work has been for companies, and it carries their name rather than mine —
-production web systems across legal, real estate, rentals, maintenance, retail, travel and
-education. I don't list clients; that is theirs to publish, not mine. What carried over is
-the habit rather than the portfolio: ship the thing, then go looking for the reason it is
-wrong.
+Since 2024 I have delivered working systems to **105+ clients** — most of that one platform
+hardened until it could be replicated and adapted per company, alongside web systems across
+several sectors.
+
+The work carries their names rather than mine, and I keep it that way. I'm one person, not
+an agency, and a client list is theirs to publish, not mine — putting those names on my own
+page would be borrowing something I wasn't given. I'm glad to walk through any of it
+privately with anyone who wants to see it.
+
+What carried over is the habit rather than the portfolio: ship the thing, then go looking
+for the reason it is wrong.
 
 ### Products
 
