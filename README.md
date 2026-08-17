@@ -1,4 +1,4 @@
-## Zaid Alhawamdeh
+## Zaid Mustafa Alhawamdeh
 
 I build software on my own, and I try hard to break it before I trust it.
 
