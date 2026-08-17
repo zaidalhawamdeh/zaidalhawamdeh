@@ -30,6 +30,7 @@ for the reason it is wrong.
 | **[Wakeel](https://wakeelhq.com)** | A sales agent a merchant trains in their own words, in their own dialect |
 | **[al-Munqidh](https://almunqidh.com)** | Business health assessment for early-stage companies |
 | **[SEALEDScan](https://sealedscan.com)** | A scanner. Deliberately neutral, deliberately free |
+| **[FeedParity](https://www.getfeedparity.com)** | Independent verification that Google Merchant Center sees the same catalogue Shopify does — read-only, changes nothing |
 
 ### Systems
 
@@ -46,6 +47,12 @@ on the model behaving well: wrap one that says yes to everything and it still ca
 a phone number that was never stored, because there is no path from the model to the
 answer. Memory persists to disk, every factual answer carries the source it came from, and
 an unreachable model means abstain rather than guess.
+
+### Also
+
+**[AFAQ PLUS International](https://afaqplusgroup.com)** — a business group I run in the UAE:
+real estate, car rental, education advisory, and trade. Five companies. Not software — it is
+where the software has to survive a payroll.
 
 ### How I work
 
